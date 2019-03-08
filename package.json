@@ -1,0 +1,30 @@
+{
+  "name": "travel-card",
+  "version": "1.0.0",
+  "description": "Group photographs based on location",
+  "main": "index.js",
+  "dependencies": {
+    "@material-ui/core": "^3.9.2",
+    "@material-ui/icons": "^3.0.2",
+    "next": "^8.0.3",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HTMLGhozt/Travel-Card.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HTMLGhozt/Travel-Card/issues"
+  },
+  "homepage": "https://github.com/HTMLGhozt/Travel-Card#readme"
+}
